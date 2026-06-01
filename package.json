@@ -1,0 +1,20 @@
+{
+  "name": "@pipeworx/mcp-close-crm",
+  "version": "0.1.0",
+  "description": "Close CRM MCP Pack — wraps the Close (close.com) API v1.",
+  "type": "module",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "keywords": ["mcp", "mcp-server", "model-context-protocol", "pipeworx", "close-crm"],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pipeworx-io/mcp-close-crm"
+  },
+  "scripts": {
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.0"
+  }
+}
