@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-close-crm",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Close CRM MCP Pack — wraps the Close (close.com) API v1.",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-dceaa3f2a39d04d672b7fe1651ef6215dda7b47189ae88523582352a4d7ceab2",
-    "sourceCommit": "60f04b68c347e970c6be94a53439d1364061fc06"
+    "sourceHash": "v1-8a139f6f8d2d32f3917313c4f7f7bccde28c4c3191582789dc2d019eca5c620b",
+    "sourceCommit": "5b29c2b0c11e1fcd954969a245b474e6e9475116"
   }
 }
