@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-close-crm",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Close CRM MCP Pack — wraps the Close (close.com) API v1.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "close-crm",
     "gatewaySlug": "close-crm",
-    "sourceHash": "v1-c4340a18d62713deff3f8ff664b346032afde856e84ad7964b42b3623b3d234c",
-    "sourceCommit": "4277282d72f9bf55e548b3799aaf737baf22152f"
+    "sourceHash": "v1-8dfa6774d7c9ffa3f1d752925adff5aeaf63e1d3b8f63c72a0593717c692c0f4",
+    "sourceCommit": "8cc978183948532674e797c429305c9d8ab2a1c3"
   }
 }
